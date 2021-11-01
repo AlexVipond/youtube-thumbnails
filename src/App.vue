@@ -11,8 +11,8 @@
       </div>
 
       <section class="mt-auto relative w-[calc(3/5*100%)] flex flex-col gap-10">
-        <h1 class="text-7xl font-bold text-primary-1000">The Power of <br />Vue 3 Function Refs</h1>
-        <h2 class="text-4xl tracking-widest font-bold uppercase text-primary-900">Part 1</h2>
+        <h1 class="text-6xl font-bold text-primary-1000">The Power of <br />Vue 3 Function Refs</h1>
+        <h2 class="text-4xl tracking-widest font-bold uppercase text-primary-900">Part 3</h2>
       </section>
 
       <div class="
