@@ -1,18 +1,18 @@
 <template>
-  <main class="h-screen w-screen flex items-center justify-center bg-primary-400">
-    <section class="relative h-[720px] w-[1280px] flex pl-20 pb-20 overflow-hidden bg-primary-100">
-      <div class="text-primary-200">
-        <div class="absolute top-0 left-0 translate-x-[-80px] translate-y-[-110px] p-8 rounded-full bg-primary-300">
+  <main class="h-screen w-screen flex items-center justify-center bg-indigo-400">
+    <section class="relative h-[720px] w-[1280px] flex pl-20 pb-20 overflow-hidden bg-indigo-100">
+      <div class="text-indigo-200">
+        <div class="absolute top-0 left-0 translate-x-[-80px] translate-y-[-110px] p-8 rounded-full bg-indigo-300">
           <IconVideo class="h-[380px] w-[380px]" />
         </div>
-        <div class="absolute bottom-0 right-0 translate-x-[80px] translate-y-[80px] p-8 rounded-full bg-primary-300">
+        <div class="absolute bottom-0 right-0 translate-x-[80px] translate-y-[80px] p-8 rounded-full bg-indigo-300">
           <IconCode class="h-[520px] w-[520px]" />
         </div>
       </div>
 
       <section class="mt-auto relative w-[calc(3/5*100%)] flex flex-col gap-10">
-        <h1 class="text-6xl font-bold text-primary-1000">The Power of <br />Vue 3 Function Refs</h1>
-        <h2 class="text-4xl tracking-widest font-bold uppercase text-primary-900">Part 3</h2>
+        <h1 class="text-6xl font-bold text-indigo-1000">Real World Vue 3<br />Function Refs</h1>
+        <h2 class="text-4xl tracking-widest font-bold uppercase text-indigo-900">Ripple Effect on Click</h2>
       </section>
 
       <div class="
