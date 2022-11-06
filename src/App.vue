@@ -11,8 +11,8 @@
       </div>
 
       <section class="mt-auto relative w-[calc(3/5*100%)] flex flex-col gap-10">
-        <h1 class="text-6xl font-bold text-indigo-1000">Real World Vue 3<br />Function Refs</h1>
-        <h2 class="text-4xl tracking-widest font-bold uppercase text-indigo-900">Ripple Effect on Click</h2>
+        <h1 class="text-6xl font-bold text-indigo-1000">Real World Code</h1>
+        <h2 class="text-4xl tracking-widest font-bold uppercase text-indigo-900">Type-safe one-off<br />event listeners</h2>
       </section>
 
       <div class="
@@ -33,7 +33,7 @@
       ">
         <img
           class="w-full"
-          src="/vue-logo.png"
+          src="/ts-logo.png"
         />
       </div>
     </section>
